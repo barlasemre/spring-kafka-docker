@@ -1,0 +1,11 @@
+prettyPrint: true
+readAllResources: true
+resourcePackages:
+  - com.barlas
+cacheTTL: 0
+openAPI:
+  info:
+    title: Employee Api example
+    version: 1.0
+  servers:
+    - url: 'localhost:8080'
